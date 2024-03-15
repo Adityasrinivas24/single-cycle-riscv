@@ -1,4 +1,4 @@
-// t2b_riscv_cpu top module declaration
+// top_riscv_cpu top module declaration
 module top_riscv_cpu (
     input clk, reset,
     input Ext_MemWrite,
