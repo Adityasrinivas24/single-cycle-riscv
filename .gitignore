@@ -1,0 +1,11 @@
+path_planner_c/
+db/
+incremental_db/
+output_files/
+simulation/
+t2b_riscv_cpu_nativelink_simulation.rpt
+t2b_riscv_cpu.qpf
+t2b_riscv_cpu.qsf
+t2b_riscv_cpu.qws
+machine_code.lss
+program_dump.hex
