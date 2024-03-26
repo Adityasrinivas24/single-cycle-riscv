@@ -9,3 +9,4 @@ t2b_riscv_cpu.qsf
 t2b_riscv_cpu.qws
 machine_code.lss
 program_dump.hex
+riscv_compiler_test/
